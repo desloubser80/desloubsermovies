@@ -1,0 +1,8 @@
+.content {
+	margin : auto 0;
+	background : gray;
+}
+
+.row {
+	justify-content: center;
+}
